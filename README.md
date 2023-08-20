@@ -15,4 +15,14 @@ This is the wordpress scanner which help to find open ports, vulnerabilities and
 
   The Scanner also have feature of scanning the ports and help to find the open ports and vulnerable services running on the server.
 
+  Directory Fuzzing :
+
+  The scanner can intelligently fuzz directories, aiding in the discovery of hidden or sensitive files and directories within the WordPress installation.
+
+  Vulnerability Assessment :
+
+  The Scanner scan the websites and helping users to identify and address security issues in the WordPress core, themes, or plugins.
+
+  
+
   
