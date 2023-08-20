@@ -23,6 +23,12 @@ This is the wordpress scanner which help to find open ports, vulnerabilities and
 
   The Scanner scan the websites and helping users to identify and address security issues in the WordPress core, themes, or plugins.
 
+And many more...
+
+# Requirements
+
+The only requirement is that you have python environment in your system.
+
   
 
   
