@@ -29,6 +29,15 @@ And many more...
 
 The only requirement is that you have python environment in your system.
 
-  
+# Usage
 
+1. Clone the Repository in your terminal using command :
+
+       git clone https://github.com/Cyber-Aakash/Wordpress-Scanner.git
+
+3. Run the following command to start with scanner :
+
+       python wpscanner.py
+   
+   
   
