@@ -10,7 +10,6 @@ GRAY = Fore.LIGHTBLACK_EX
 space = ' '
 
 def directory_fuzz(url):
-    # url = input("Enter URL : ")
     try:
         with open ("wordpressfuzzing.txt","r") as f:
             for i in f:
