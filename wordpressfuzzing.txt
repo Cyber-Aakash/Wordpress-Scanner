@@ -1,5 +1,6 @@
 dup-installer-bootlog
 index.php
+xmlrpc.php
 installer-backup.php
 installer.php
 license.txt
