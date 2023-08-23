@@ -45,7 +45,7 @@ The only requirement is that you have python environment in your system.
 
    Run the tool as a Docker container:
 
-       docker run -d -it [imageid/imagename:withtag]
+       docker run -d -it [image-name:tag] / [imageid]
    
 
    
