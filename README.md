@@ -35,9 +35,19 @@ The only requirement is that you have python environment in your system.
 
        git clone https://github.com/Cyber-Aakash/Wordpress-Scanner.git
 
-3. Run the following command to start with scanner :
+2. Run the following command to start with scanner :
 
        python wpscanner.py
+
+3. To Run this tool using Docker, follow these steps:
+
+       docker pull hackaj/wordpress-security-scanner:v1
+
+   Run the tool as a Docker container:
+
+       docker run -d -it [imageid/imagename:withtag]
+   
+
    
    
   
